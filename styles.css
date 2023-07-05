@@ -126,7 +126,7 @@ footer {
   text-align: center;
 
   font-size: 14px;
-  color: whitesmoke;
+  color: var(--text-color);
 }
 
 /* teste */
